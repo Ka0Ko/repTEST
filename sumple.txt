@@ -1,1 +1,4 @@
 /Users//gitTest/
+編集したsumple.txtです
+Add後、(stage後)さらに編集します。
+Add後、(stage後)さらに編集します2。
